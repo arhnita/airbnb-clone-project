@@ -42,5 +42,22 @@ This project is a full-stack web application that replicates the core functional
   - Secure checkout process
   - User authentication
 
+  Color Styles:
+  - Primary: #FF5A5F
+  - Secondary: #008489
+  - Background: #FFFFFF
+  - Text: #222222
+  - Secondary Text: #717171
+  
+  Typography:
+  - Primary Font: Circular, Medium (500), 16px
+  - Headings: Circular, Bold (700), 24px-32px
+  - Secondary Text: Circular, Book (400), 14px
+
+
+### The importance of identifying design properties of a mock up design is to ensure you meet the requirements and standard of the business and also maintaing the brand of the organization
+
+
+
 
 
