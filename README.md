@@ -31,3 +31,16 @@ This project is a full-stack web application that replicates the core functional
 - **GitHub** - Code repository
 - **Vercel** - Frontend deployment
 - **AWS** - Cloud services
+
+### UI/UX Design Planning
+- **Create intuitive booking flow
+- **Maintain visual consistency
+- **Prioritize mobile responsiveness
+  Key Features:
+  - Property search and filtering
+  - Detailed property viewing
+  - Secure checkout process
+  - User authentication
+
+
+
