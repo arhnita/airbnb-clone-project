@@ -60,8 +60,6 @@ This project is a full-stack web application that replicates the core functional
 - **Headings:** Circular, Bold (700), 24px-32px
 - **Secondary Text:** Circular, Book (400), 14px
 
-### The importance of identifying design properties of a mock up design is to ensure you meet the requirements and standard of the business and also maintaining the brand of the organization
-
 ### Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. A Clear navigation, intuitive interfaces, and responsive design are critical for success. Users should be able to easily search for properties, view detailed information, and complete bookings without confusion or unnecessary steps.
 
